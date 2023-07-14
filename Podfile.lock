@@ -1,0 +1,30 @@
+PODS:
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - DropDown (2.3.13)
+  - SwiftAlgorithms (1.0.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Charts
+  - DropDown
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - DropDown
+    - SwiftAlgorithms
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Charts: 354f86803d11d9c35de280587fef50d1af063978
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: d2a5479ef709e63335bc38f91f80b2ea098750a1
+
+COCOAPODS: 1.8.4

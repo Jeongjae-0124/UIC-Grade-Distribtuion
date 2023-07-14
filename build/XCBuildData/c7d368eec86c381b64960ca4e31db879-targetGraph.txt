@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+DropDown in Pods, no dependencies
+Pods-UICGrade in Pods, depends on:
+DropDown in Pods (explicit)
+Pods-UICGrade-UICGradeUITests in Pods, depends on:
+DropDown in Pods (explicit)
+Pods-UICGradeTests in Pods, depends on:
+Pods-UICGrade in Pods (explicit)
