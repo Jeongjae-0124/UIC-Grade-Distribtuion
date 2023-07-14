@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4BDD95B-ECF8-40D1-A65F-EEC4614381D9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7698BC97-0098-481B-888C-156A9E2E4BEB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UICGrade/GradeDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "GradeDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7698BC97-0098-481B-888C-156A9E2E4BEB - a7a1d1a6ea7c5431"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UICGrade.GradeDetailViewController.courseTerm.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "UICGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongjae/Desktop/UICGrade/UICGrade/GradeDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7698BC97-0098-481B-888C-156A9E2E4BEB - c6241b5c628af82d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UICGrade.GradeDetailViewController.courseTerm.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "UICGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongjae/Desktop/UICGrade/UICGrade/GradeDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "7698BC97-0098-481B-888C-156A9E2E4BEB - ac811ce41aaafd32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UICGrade.GradeDetailViewController.courseTerm.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "UICGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongjae/Desktop/UICGrade/UICGrade/GradeDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7698BC97-0098-481B-888C-156A9E2E4BEB - 85dc511e59d35e60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UICGrade.GradeDetailViewController.courseTerm.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "UICGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongjae/Desktop/UICGrade/UICGrade/GradeDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7698BC97-0098-481B-888C-156A9E2E4BEB - dfac0cae7f43571d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UICGrade.GradeDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; UICGrade.GradeDetailViewController"
+                  moduleName = "UICGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongjae/Desktop/UICGrade/UICGrade/GradeDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "7698BC97-0098-481B-888C-156A9E2E4BEB - 341b150d1fc9171"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UICGrade.GradeDetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;UICGrade.GradeDetailViewController&gt;"
+                  moduleName = "UICGrade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeongjae/Desktop/UICGrade/UICGrade/GradeDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
